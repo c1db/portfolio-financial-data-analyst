@@ -1,7 +1,7 @@
 # portfolio-financial-data-analyst
 This portfolio contains notebooks and scripts for monitoring, analyze and save stock data
 
-fast_saver.py - is used for saving market snapshot once a minute in directory "fast_dump"
+fast_saver.py - is used for saving market snapshot once a minute in directory "fast_dump"  
 fast_dump - this directory contains Bittrex snapshots
 
 fast_analyze.ipynb - is used for sliding monitoring market state (first version) and market historical data
